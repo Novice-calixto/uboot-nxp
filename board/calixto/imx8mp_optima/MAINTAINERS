@@ -1,0 +1,7 @@
+i.MX8MP CALIXTO OPTIMA SOM
+M:	Amokh H
+M:	Abhishek V P
+S:	Maintained
+F:	board/calixto/imx8mp_optima
+F:	include/configs/imx8mp_optima.h
+F:	configs/imx8mp_calixto_optima_defconfig
